@@ -1,0 +1,4 @@
+mcp[cli]>=1.2.0
+httpx
+docker
+# Add any other required libraries based on the user's needs
